@@ -3,19 +3,15 @@
 ## 🤗About me
 
 れのらりと申します。  
-長岡工業高等専門学校に通っている学生です。
-
+長岡工業高等専門学校に通っている学生です。  
 趣味でプログラミングをしています。  
 主にWeb開発をしていますが、他にもいろいろな言語を使って開発しています。  
 最近は、DiscordBOTの開発にも興味を持っています。  
 また、自分のサービスを提供しています。  
 詳しくは、Worksをご覧ください。
 
----
-
 I'm Renorari.  
-I'm a student at National Institute of Technology, Nagaoka College.
-
+I'm a student at National Institute of Technology, Nagaoka College.  
 I program as a hobby.  
 I mainly do web development, but I also develop in various other languages.  
 Recently, I've become interested in developing Discord BOTs.  
