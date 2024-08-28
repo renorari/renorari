@@ -13,7 +13,7 @@
 
 ---
 
-I'm Renorari.
+I'm Renorari.  
 I'm a student at National Institute of Technology, Nagaoka College.
 
 I program as a hobby.  
