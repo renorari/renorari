@@ -87,6 +87,7 @@ HTMLなどを使ったフロントエンドや、Node.jsを使ったバックエ
 
 - [Renorari.net](https://renorari.net)
 - [Deliheart](https://deliheart.jp/)
+- [Eventapo](https://eventapo.com/)
 - [QuettaPlex](https://quettaplex.com/)
 - [VoiceJP](https://voicejp.renorari.net/)
 - [Kana](https://kana.renorari.net/)
