@@ -26,6 +26,10 @@ Please see Works for more information.
 - [Deliheart](https://deliheart.jp/)  
   「とどけよう、あなたの想い。」がテーマの、オーダーメードスイーツのギフトサービスです。  
   Deliheartの開発を引き継いでおこなっています。
+- [Eventapo](https://eventapo.com/)  
+  予約から当日チケットまで支えるイベント管理サービス  
+  Eventapoは、カンファレンスの開催のために生まれたイベント管理サービスです。  
+  コンタスの新サービスとして、[あさり](https://github.com/asaritomohiro)と一緒に開発しています。
 - [QuettaPlex](https://quettaplex.com/)  
   QuettaPlexは、子供でも大人でもITサービスを使いたいという思いを叶えるために、Webサーバーなどのサービスを提供しています。
 - KikiCirasu  
@@ -44,6 +48,7 @@ Please see Works for more information.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
