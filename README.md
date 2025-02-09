@@ -4,7 +4,7 @@
 
 れのらりと申します。  
 長岡工業高等専門学校に通っている学生です。  
-趣味でプログラミングをしています。  
+趣味と仕事でプログラムを書いています。  
 主にWeb開発をしていますが、他にもいろいろな言語を使って開発しています。  
 最近は、DiscordBOTの開発にも興味を持っています。  
 また、自分のサービスを提供しています。  
@@ -12,7 +12,7 @@
 
 I'm Renorari.  
 I'm a student at National Institute of Technology, Nagaoka College.  
-I program as a hobby.  
+I write programs for fun and work.  
 I mainly do web development, but I also develop in various other languages.  
 Recently, I've become interested in developing Discord BOTs.  
 I also provide my own services.  
@@ -55,6 +55,10 @@ Please see Works for more information.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
