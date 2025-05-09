@@ -22,7 +22,7 @@ Please see Works for more information.
 
 - [Renorari.net](https://renorari.net)  
   わたしのポートフォリオサイトです。  
-  このサイトは、NodeJSとExpressを使って0から作成しました。
+  このサイトは、国産のReactフレームワークのWakuを使用して作成しました。
 - [Deliheart](https://deliheart.jp/)  
   「とどけよう、あなたの想い。」がテーマの、オーダーメードスイーツのギフトサービスです。  
   Deliheartの開発を引き継いでおこなっています。
@@ -30,10 +30,6 @@ Please see Works for more information.
   予約から当日チケットまで支えるイベント管理サービス  
   Eventapoは、カンファレンスの開催のために生まれたイベント管理サービスです。  
   コンタスの新サービスとして、[あさり](https://github.com/asaritomohiro)と一緒に開発しています。
-- [QuettaPlex](https://quettaplex.com/)  
-  QuettaPlexは、子供でも大人でもITサービスを使いたいという思いを叶えるために、Webサーバーなどのサービスを提供しています。
-- KikiCirasu  
-  KikiCirasuは、クラス向けの課題通知等サービスを提供しています。
 - [VoiceJP](https://voicejp.renorari.net/)  
   VoiceJPは、Discord通話専用BOTです。  
   耳の不自由な方でもDiscord通話を楽しめるように、音声をテキストに変換したり、テキストを音声に変換したりする機能を提供しています。
